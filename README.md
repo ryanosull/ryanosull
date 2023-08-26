@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Check out some of my pinned projects below. I just learned you could add a readme.md to your github profile, so I plan to update this soon!
+
 <!--
 **ryanosull/ryanosull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
