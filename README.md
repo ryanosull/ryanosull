@@ -6,9 +6,10 @@ When not at my desk, you can catch me pedaling two wheels on the Katy Trail, cam
 
 Please check out some of my projects below and feel free to contact me! 👇
 
-Get in Touch ✍️
+###Get in Touch ✍️
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/ryanosull/ryanosull/assets/110740206/503d3753-3de4-44e0-ba18-16ee85f1052b)
+
 
 
 
