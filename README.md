@@ -4,9 +4,9 @@ I am an experienced full stack developer with a penchant for server-side program
 
 When not at my desk, you can catch me pedaling two wheels on the Katy Trail, camping in the Ozarks with my wife and two daughters, or lost in the woods somewhere between Asheville and Moab (or daydreaming about the P2P/STR architecture-focused app I hope to shop around soon!). 
 
-Please check out some of my projects below and feel free to contact me! 👇
+Check out some of my projects below and feel free to get in touch! 👇
 
-### Get in Touch ✍️
+
 
 
 
