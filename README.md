@@ -1,11 +1,14 @@
 ### Hi there, I'm Ryan 👋
 
-I am an experienced full stack developer with a penchant for server-side programming and a lover of Ruby and Ruby on Rails (and React, too!). My background is in investment real estate, banking, and entrepreneurship. I am client-focused with a provable track record of business strategy, client acquisition and retention, market research, employee/vendor management and relations, crisis management, legal and regulatory compliance, and financial management. I have a strong desire to utilize the culmination of my previous experience and knowledge in creative ways to develop elegant and efficient software solutions. 
+I am an experienced full stack developer with a penchant for server-side programming and an affinity for of Ruby and Ruby on Rails (and React, too!). I am most at home working on the backend, love API architcture, and think Postman is one the greatest tools at my disposal. I have experience with ORM tools (ActiveRecord), PostgreSQL, and [deploying full stack applicatons on Render](https://burgerbuddy.onrender.com/). 
 
-When not at my desk, you can catch me pedaling two wheels on the Katy Trail, camping in the Ozarks with my wife and two daughters, or lost in the woods somewhere between Asheville and Moab (or daydreaming about the P2P/STR architecture-focused app I hope to shop around soon!). 
+My background is in investment real estate, banking, and entrepreneurship. I am client-focused with a provable track record of business strategy, client acquisition and retention, market research, employee/vendor management and relations, crisis management, legal and regulatory compliance, and financial management. I am excited to leverage these skills, among others, in a software development environment.
 
-Check out some of my projects below and feel free to get in touch! 
+When not at my desk, you can catch me pedaling two wheels on the [Katy Trail](https://en.wikipedia.org/wiki/Katy_Trail_State_Park), camping in the Ozarks with my wife and two daughters, or lost in the woods somewhere between Asheville and Moab (or daydreaming about the P2P/STR architecture-focused app I'm slowly building!). If it's after midnight and my wife and daughters are soundly asleep, you can find me slowly but surely teaching myself Solidity, reading everything I can about the [EVM](https://ethereum.org/en/developers/docs/evm/) and smart contracts (with a particular interest in oracles), or studying for my AWS Developer Certificate.  
 
+Check out some links and projects below and feel free to get in touch! 
+
+[LinkedIn](www.linkedin.com/in/wrosullivan) | [Medium](https://medium.com/@wrosullivan88) | [Resume](https://docs.google.com/document/d/1AZ35XMndhtQ5YUh8Xkow2Z-ZNNEVbhwDCRehT2zSm8c/edit?usp=sharing)
 
 
 
