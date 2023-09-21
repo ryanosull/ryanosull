@@ -8,7 +8,7 @@ When not at my desk, you can catch me pedaling two wheels on the [Katy Trail](ht
 
 Check out some links and projects below and feel free to get in touch! 
 
-[LinkedIn](www.linkedin.com/in/wrosullivan) | [Medium](https://medium.com/@wrosullivan88) | [Resume](https://docs.google.com/document/d/1AZ35XMndhtQ5YUh8Xkow2Z-ZNNEVbhwDCRehT2zSm8c/edit?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/wrosullivan/) | [Medium](https://medium.com/@wrosullivan88) | [Resume](https://docs.google.com/document/d/1AZ35XMndhtQ5YUh8Xkow2Z-ZNNEVbhwDCRehT2zSm8c/edit?usp=sharing)
 
 
 
