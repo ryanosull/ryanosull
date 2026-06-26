@@ -1,31 +1,32 @@
-### Hi there, I'm Ryan 👋
+## Ryan O'Sullivan
 
-I am an experienced full stack developer with a penchant for server-side programming and an affinity for Ruby and Ruby on Rails (and React, too!). I am most at home working on the backend, love API architcture, and think Postman is one the greatest tools at my disposal. I have experience with ORM tools (ActiveRecord), test/behavior driven development (RSpec), PostgreSQL, and [deploying full stack applicatons on Render](https://burgerbuddy.onrender.com/). Take a look at my [Medium](https://medium.com/@wrosullivan88) profile where I blog mostly about Ruby/Rails topics.
+Lead platform engineer. NestJS · Next.js · TypeScript · Python · Clarity.
 
-My background is in investment real estate, banking, and entrepreneurship. I am client-focused with a provable track record of business strategy, client acquisition and retention, market research, employee/vendor management and relations, crisis management, legal and regulatory compliance, and financial management. I am excited to leverage these skills, among others, in a software development environment.
+I architect and operate the full technical stack for a B2B e-commerce 
+platform doing $2M+ in annual web revenue across multi-regional storefronts — 
+system design, API architecture, ERP integration, CI/CD, and production 
+reliability.
 
-When not at my desk, you can catch me pedaling two wheels on the [Katy Trail](https://en.wikipedia.org/wiki/Katy_Trail_State_Park), camping in the Ozarks with my wife and two daughters, or lost in the woods somewhere between Asheville and Moab. If it's after midnight and my wife and daughters are soundly asleep, you can find me slowly but surely teaching myself Solidity, reading everything I can about the [EVM](https://ethereum.org/en/developers/docs/evm/) and smart contracts (with a particular interest in [oracles](https://ethereum.org/en/developers/docs/oracles/#:~:text=Oracles%20act%20as%20a%20%E2%80%9Cbridge,functions%20using%20off%2Dchain%20data.)), or studying for my AWS Developer Certificate.  
+**Current stack**
+- Backend: NestJS · Node.js · TypeScript · PostgreSQL
+- Frontend: Next.js · React · TypeScript
+- Integrations: Epicor Kinetic (ERP) · PartTrap (PIM) · SOAP/REST APIs
+- AI/ML: OpenAI (Responses API · Vector Stores · File Search) · Azure (Blob · 
+  Speech · App Service) · FastAPI · RAG pipeline design
+- Web3: Clarity (Stacks/Bitcoin L2) · Solidity · Chainlink CCIP · 
+  Ethereum · Avalanche
 
-Check out some links and projects below and feel free to get in touch! 
+**Selected work**
+- Production RAG system on Azure — multi-source ETL pipeline ingesting call 
+  recordings, product catalog, and support tickets into OpenAI Vector Stores, 
+  served via FastAPI with intelligent query routing and hard safety gates
+- Smartcontracts — proof-of-concept oracle infrastructure 
+  on Stacks: 5 Clarity contracts (~2,700 lines) covering agent reputation, 
+  natural-language intent routing, cross-chain decimal normalization, and 
+  DeFi primitives
 
-[LinkedIn](https://www.linkedin.com/in/wrosullivan/) | [Medium](https://medium.com/@wrosullivan88) | [Resume](https://docs.google.com/document/d/1AZ35XMndhtQ5YUh8Xkow2Z-ZNNEVbhwDCRehT2zSm8c/edit?usp=sharing)
+**Background**
+Former real estate investor and property management operator. I think in 
+systems and outcomes.
 
-
-
-
-
-
-<!--
-**ryanosull/ryanosull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/wrosullivan/) · Columbia, MO
